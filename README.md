@@ -2,9 +2,6 @@
 <!DOCTYPE html>
 <html>
   <head>
-<style>
-
-    
   </head>
 <body>
   <p>Which button do you like more?</p>
@@ -14,5 +11,5 @@
 <a href="https://www.youtube.com"><button>Youtube</button></a>
 
 </body>
- </style>
+
 </html>
