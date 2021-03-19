@@ -4,7 +4,7 @@
   <head>
   </head>
 <body>
-  <form>
+  <form action="/action_page.php">
   <input type="text">
   </form>
   <p>Which button do you like more?</p>
