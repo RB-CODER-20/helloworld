@@ -10,6 +10,7 @@
   <a href="https://www.youtube.com"><img src="https://upload.wikimedia.org/wikipedia/commons/e/e1/Logo_of_YouTube_%282015-2017%29.svg" height="50px" width="75px"</img></a>
   <p>or</p>
   <a href="https://www.youtube.com"><button>Youtube</button></a>
- </body>
+ <color="red">
+ </body></color>
 </html>
  
